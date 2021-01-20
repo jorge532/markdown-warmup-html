@@ -1,0 +1,19 @@
+<h1 id="markdown">Markdown</h1>
+
+<h2 id="whatismarkdown">What is markdown?</h2>
+
+<p>*It is a way to <strong>write</strong></p>
+
+<h2 id="listofthings">List of things</h2>
+
+<ol>
+    <li>one</li>
+
+    <li>two</li>
+
+    <li>three</li>
+</ol>
+
+<blockquote>
+    <p>/home/user/markdown-warmup-html/processed.jpeg</p>
+</blockquote>
